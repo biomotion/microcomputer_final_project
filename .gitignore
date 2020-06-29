@@ -1,0 +1,8 @@
+*.uvguix.*
+*.map
+*.o
+*.dbgconf
+Listings/
+Objects/
+RAM/
+RTE/
