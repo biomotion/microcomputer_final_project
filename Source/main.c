@@ -13,7 +13,7 @@ int main(void){
 	LCD_Init();
 	LCD_DisplayOn();
 	
-  LCD_Clear(RED);
+  show_welcome();
 	
 	// Loop for Playing
 	
